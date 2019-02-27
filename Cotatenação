@@ -1,0 +1,4 @@
+n1 = str (entrada ("Digite um valor!"))
+n2 = str (input ("Digite outro valor!"))
+S = n1 + n2
+imprimir (S)
